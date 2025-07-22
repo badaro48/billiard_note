@@ -31296,7 +31296,7 @@ aE(){return new A.C6(B.C0,B.C1,B.C3,B.l)}}
 A.C6.prototype={
 R(a){return new A.qK(A.acU(new A.y3(new A.Wi(this),null),!0),null)},
 oB(a,b,c){var s=null,r=new A.dd(B.k,2,B.au,B.Y)
-return A.Qw(s,A.a0Z(s,A.a0O(s,s,s,new A.ha(a,s,new A.cE(r,r,r,r),s,B.yW,s,B.tB),30,s,s,30),B.b_,!1,s,s,s,s,s,s,s,s,s,new A.Wb(b,c),s,s,s,s,s,s,s),s,s,c.a,s,c.b,s)}}
+return A.Qw(s,A.a0Z(s,A.a0O(s,s,s,new A.ha(a,s,new A.cE(r,r,r,r),s,B.yW,s,B.tB),20,s,s,20),B.b_,!1,s,s,s,s,s,s,s,s,s,new A.Wb(b,c),s,s,s,s,s,s,s),s,s,c.a,s,c.b,s)}}
 A.Wi.prototype={
 $2(a,b){var s=null,r=b.d,q=this.a
 return A.a0I(A.SX(A.AX(B.c6,A.a([A.acq(0,new A.p5(A.acP(s,s,new A.nX("asset/images/table.jpg",s,s)),B.ty,s)),q.oB(B.h,new A.Wf(q),q.d),q.oB(B.BK,new A.Wg(q),q.e),q.oB(B.BL,new A.Wh(q),q.f)],t.W),B.db),r,r*0.4988179669030733),s,s)},
