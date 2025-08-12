@@ -31336,7 +31336,7 @@ GG(a,b){var s,r,q=this,p=null,o=t.N,n=t.z,m=A.a([A.aI(["id","white","color",B.h,
 B.b.d8(m,new A.Wi(q))
 o=A.a([A.acB(0,new A.p6(A.ad_(p,p,new A.nY("asset/images/table.jpg",p,p)),B.ty,p))],t.W)
 for(n=t.q,s=0;s<3;++s){r=m[s]
-o.push(new A.iM(n.a(r.j(0,"pos")).a,n.a(r.j(0,"pos")).b,p,p,p,p,new A.C7(r.j(0,"color"),30,p),p))}return o},
+o.push(new A.iM(n.a(r.j(0,"pos")).a,n.a(r.j(0,"pos")).b,p,p,p,p,new A.C7(r.j(0,"color"),20,p),p))}return o},
 wA(a){var s=this,r=t.x.a($.aT.ai$.z.j(0,s.Q).ga3()).nT(a),q=s.Lb(r)
 if(q==null)return
 s.ac(new A.Wj(s,q))
@@ -31349,13 +31349,13 @@ Lb(a){var s=this,r=t.Fh,q=A.al(new A.aF(A.a([s.oE("white",a,s.d),s.oE("yellow",a
 if(q.length===0)return null
 B.b.d8(q,new A.Wl(s))
 return B.b.gE(q)},
-oE(a,b,c){return new A.eW(a,b.T(0,c.P(0,new A.A(15,15))).gc2())},
+oE(a,b,c){return new A.eW(a,b.T(0,c.P(0,new A.A(10,10))).gc2())},
 Ih(a){switch(a){case"white":return this.d
 case"yellow":return this.e
 case"red":return this.f
 default:return B.i}},
 LW(a,b){this.ac(new A.Wm(this,a,b))},
-lC(a,b,c){return new A.A(B.d.hv(a.a,0,b-30),B.d.hv(a.b,0,c-30))}}
+lC(a,b,c){return new A.A(B.d.hv(a.a,0,b-20),B.d.hv(a.b,0,c-20))}}
 A.Ws.prototype={
 $2(a,b){var s=null,r=b.d,q=r*0.4988179669030733,p=this.a
 return A.a0S(A.SY(A.a18(B.a1,A.AY(B.c6,p.GG(q,r),B.db,p.Q),B.b_,!1,s,s,s,s,s,s,s,new A.Wo(p),new A.Wp(p),new A.Wq(p),new A.Wr(p,q,r),s,s,s,s,s,s,s),r,q),s,s)},
